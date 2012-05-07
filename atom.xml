@@ -4,11 +4,11 @@
   <title><![CDATA[Ketan Muneshwar]]></title>
   <link href="http://ketanjm.github.com/octoprss/atom.xml" rel="self"/>
   <link href="http://ketanjm.github.com/octoprss/"/>
-  <updated>2012-05-07T16:33:15+05:30</updated>
+  <updated>2012-05-07T16:43:29+05:30</updated>
   <id>http://ketanjm.github.com/octoprss/</id>
   <author>
     <name><![CDATA[Ketan Muneshwar]]></name>
-    
+    <email><![CDATA[ketan.eml@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
